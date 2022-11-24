@@ -1,0 +1,3 @@
+- Setup database on docker
+- Create migrations command
+- implement .env
